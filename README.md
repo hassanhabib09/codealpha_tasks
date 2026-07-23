@@ -21,3 +21,28 @@ A simple, text-based implementation of the classic Hangman game. The player atte
 ### How to Run
 Navigate to the directory containing the file and run the following command in your terminal:
 `hangman_game.py`
+-----
+## 📈 Task 2: Stock Portfolio Tracker
+
+A straightforward console application that calculates the total investment value of a stock portfolio based on manually defined stock prices and user-inputted quantities.
+
+### Features
+* Utilizes a hardcoded dictionary of stock prices (e.g., AAPL, TSLA, MSFT).
+* Allows users to dynamically enter the stock ticker and the quantity of shares they own.
+* Calculates the total value of individual stock holdings and the overall portfolio.
+* Includes an option to save the final portfolio summary to a local `.txt` file.
+
+### Key Concepts Used
+* Dictionaries
+* Standard console Input/Output
+* Basic arithmetic operations
+* File handling (writing to a `.txt` file)
+
+### How to Run
+Navigate to the directory containing the file and run the following command in your terminal:
+`stock_portfolio_tracker.py` *(Note: Update the filename if you saved it differently)*
+
+---
+
+## Prerequisites
+* **Python 3.x** must be installed on your system to run these scripts. No external libraries or APIs are required.
