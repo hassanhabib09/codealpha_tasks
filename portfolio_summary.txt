@@ -1,0 +1,4 @@
+--- Portfolio Summary ---
+AAPL: 250.0 shares @ $180.00 each = $45000.00
+
+Total Investment Value: $45000.00
